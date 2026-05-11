@@ -23,3 +23,5 @@ This is a list of Milestone 02 assignments created for CHIP-690 (formerly CHIP-4
 * [Alcohol-involved Crashes by Gender](https://github.com/catherinekunz/Milestone-02)
 * [Hospital Star Ratings vs Outcomes](https://github.com/gilbert-matos/CHIP705/blob/main/milestone_02.ipynb)
 * [Air Quality and Asthma Analysis](https://github.com/cpierce12/milestone02-air-quality-asthma)
+* [Child Sadness and Screentime](https://github.com/zaraehhs/childSadnessDataAnalysis/tree/main)
+* [NBA Efficiency Analysis](https://github.com/Djelic07/nba-project-djelic)
